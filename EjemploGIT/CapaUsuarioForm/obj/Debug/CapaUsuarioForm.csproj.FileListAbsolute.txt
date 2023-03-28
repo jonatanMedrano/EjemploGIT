@@ -1,0 +1,15 @@
+C:\Users\gabri\source\repos\Ejemplo1ConConsola\CapaUsuarioForm\bin\Debug\CapaUsuarioForm.exe.config
+C:\Users\gabri\source\repos\Ejemplo1ConConsola\CapaUsuarioForm\bin\Debug\CapaUsuarioForm.exe
+C:\Users\gabri\source\repos\Ejemplo1ConConsola\CapaUsuarioForm\bin\Debug\CapaUsuarioForm.pdb
+C:\Users\gabri\source\repos\Ejemplo1ConConsola\CapaUsuarioForm\obj\Debug\CapaUsuarioForm.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\Ejemplo1ConConsola\CapaUsuarioForm\obj\Debug\CapaUsuarioForm.FCrear.resources
+C:\Users\gabri\source\repos\Ejemplo1ConConsola\CapaUsuarioForm\obj\Debug\CapaUsuarioForm.Principal.resources
+C:\Users\gabri\source\repos\Ejemplo1ConConsola\CapaUsuarioForm\obj\Debug\CapaUsuarioForm.Properties.Resources.resources
+C:\Users\gabri\source\repos\Ejemplo1ConConsola\CapaUsuarioForm\obj\Debug\CapaUsuarioForm.csproj.GenerateResource.cache
+C:\Users\gabri\source\repos\Ejemplo1ConConsola\CapaUsuarioForm\obj\Debug\CapaUsuarioForm.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\Ejemplo1ConConsola\CapaUsuarioForm\obj\Debug\CapaUsuarioForm.exe
+C:\Users\gabri\source\repos\Ejemplo1ConConsola\CapaUsuarioForm\obj\Debug\CapaUsuarioForm.pdb
+C:\Users\gabri\source\repos\Ejemplo1ConConsola\CapaUsuarioForm\bin\Debug\CapaNegocios.dll
+C:\Users\gabri\source\repos\Ejemplo1ConConsola\CapaUsuarioForm\bin\Debug\CapaNegocios.pdb
+C:\Users\gabri\source\repos\Ejemplo1ConConsola\CapaUsuarioForm\obj\Debug\CapaUsuarioForm.FMostrar.resources
+C:\Users\gabri\source\repos\Ejemplo1ConConsola\CapaUsuarioForm\obj\Debug\CapaUsuarioForm.csproj.CopyComplete

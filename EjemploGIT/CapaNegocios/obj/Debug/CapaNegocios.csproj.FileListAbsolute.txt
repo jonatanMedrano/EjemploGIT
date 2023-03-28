@@ -1,0 +1,6 @@
+C:\Users\gabri\source\repos\Ejemplo1ConConsola\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\gabri\source\repos\Ejemplo1ConConsola\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\gabri\source\repos\Ejemplo1ConConsola\CapaNegocios\obj\Debug\CapaNegocios.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\Ejemplo1ConConsola\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\Ejemplo1ConConsola\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\gabri\source\repos\Ejemplo1ConConsola\CapaNegocios\obj\Debug\CapaNegocios.pdb
